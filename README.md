@@ -74,6 +74,7 @@
 
 </p>
 
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
