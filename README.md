@@ -1,45 +1,80 @@
-<!-- Doctor Who GitHub Profile: TARDIS vibes -->
+<div>
+<!-- GitHub Profile - Joe (Dark Theme) -->
 
-<h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Doctor_Who_Logo_2018.svg" height="80">
-  <br>
-  <span style="color:#00bbff;">Welcome, Time Traveler!</span>
-</h1>
+<h1 align="center" style="color: #00bbff;">🌌 Joe</h1>
+
+<p align="center"><strong>Desenvolvedor FullStack</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h5oazJv9xkP7myCDaY/giphy.gif" width="250" alt="Flying TARDIS">
+  Entusiasta da tecnologia, apaixonado por desenvolvimento web<br>
+  e por desvendar os mistérios do código no estilo dark ⚙️🌙
 </p>
 
 <p align="center">
-  <strong>Explorando repositórios tão vastos quanto o tempo e o espaço.</strong><br>
-  Desenvolvedor curioso, fã de paradoxos, e com um leve vício em café interdimensional ☕✨
+  <img src="https://media.giphy.com/media/h5oazJv9xkP7myCDaY/giphy.gif" width="200" alt="TARDIS voando" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🧠 Linguagem e Tecnologias
 
-```bash
-> Linguagens:         JavaScript • Python • HTML/CSS
-> Ferramentas:        Git • GitHub • VSCode
-> Explorando:         React • Node.js • Next.js
+<p align="left">
+
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5OTYzYjZmN2YxZjNiNTRhOTVhYTdiZDA5ZWMzN2E5YzVhNzEyYjlkY2Q2NDJmYTVlZGI4MzUzZDJiZDA5NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dqF_rJrFoVuXzEQ9I-Z7g2T2-Pp_JauBTZUb7JYrJpg" width="60px" style="padding-right: 20px;" />
+
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwYjA3Njg5Nzc4NGE3ZWVlZDlkN2I4NWYwZGJkZmU4MzExZjZkNmY1ZmNiMjczNjU5YzUyYmVkMWY0YzZhMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g4K7bjOcV2IhCHvcgfERPvOVJBov98VHEXtnPB0xEYk" width="60px" style="padding-right: 20px;" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px" style="padding-right: 20px;" />
+ 
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px" style="padding-right: 20px;" />
+ 
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYTMyMzI5Nzc4YmU0MjRkNTdmM2UyOTI4YTkzNWMzNGFmYTg3ZGZjNWQ3NWZhZjY1MDM4NTI0YWRhNTZjMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9OmmJA61NF1jBcsCJYS8jMMEAf4rn4uFyBGMxMcX9AI" width="60px" style="padding-right: 20px;" />
+ 
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" style="padding-right: 20px;" />
+</p>
+
+<br/><br/>
+
+---
+
+### 📬 Contato
+
+📧 E-mail: **joe@exemplo.com**  
+📷 Instagram: [@joe_dev](https://instagram.com/joe_dev)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00BBFF&center=true&vCenter=true&width=600&lines=Hello%2C+Time+Traveler...;Welcome+to+my+GitHub!" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/tardis-doctor-who.gif" width="400" alt="TARDIS animada" />
+</p>
+
+<p align="center">
+  <i>“A vida é como código: cheia de loops, mas sempre com chance de refatorar.”</i>
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Elevreoj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elevreoj&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
-
-<!--
-**Elevreoj/Elevreoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</div>
 
