@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h5oazJv9xkP7myCDaY/giphy.gif" width="200" alt="TARDIS voando" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00BBFF&center=true&vCenter=true&width=600&lines=Hello%2C+Time+Traveler...;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -35,18 +35,29 @@
 
 <br/><br/>
 
----
-
 ### 📬 Contato
 
-📧 E-mail: **joe@exemplo.com**  
-📷 Instagram: [@joe_dev](https://instagram.com/joe_dev)
+<table>
+  <tr>
+    <td>
+      <a href="https://instagram.com/seuusuario" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/seuusuario" target="_blank">@seuusuario</a>   ALTERAR DEPOIS
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" alt="Email">
+    </td>
+    <td>
+      <a href="mailto:joervelejuniorpereira@gmail.com">joervelejuniorpereira@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00BBFF&center=true&vCenter=true&width=600&lines=Hello%2C+Time+Traveler...;Welcome+to+my+GitHub!" />
-</p>
 
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/tardis-doctor-who.gif" width="400" alt="TARDIS animada" />
@@ -62,20 +73,12 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Elevreoj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Elevreoj&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elevreoj&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
-
+---
 
 </div>
+
 
