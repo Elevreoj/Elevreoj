@@ -16,23 +16,28 @@
 
 ---
 
-### 🧠 Linguagem e Tecnologias
+<h3 align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDY4OTUsIm5iZiI6MTc2NDEwNjU5NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIxMzYzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjMjQyMDgxNTdhZmRkYWQ2ZTYxNWVmNzI0Zjg3NjBiZjA5ODVkZDkyYTZjYmY3ZWZlMmJlZDZhMzQxNGY4ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XeIoUV0MjidfOpTPXtIRbx_A1S8z2OdqHVtJ2x_Gb0Y" width=18>
+🖥️ Linguagem e Tecnologias 🖥️
+<img src="https://stock.adobe.com/br/video/github-black-icon-background-animation-github-logo/609343994" width=22>
+</h3>
+<br>
 
-<p align="left">
+<p align="center">
 
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxOWVjMTczY2IyZDczZWJlNGUyNmE2Mzg4ZTk3MWQ0MjAxYzg2YzZlZmYzNTE4MjhhMWE1MjNkYTcxOTQ1ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vne-MI6xySKderX6Leb8FyKnE9BlMEWW1zBqs9UQ4ZQ" width="60px" style="padding-right: 30px;" />
+   <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxOWVjMTczY2IyZDczZWJlNGUyNmE2Mzg4ZTk3MWQ0MjAxYzg2YzZlZmYzNTE4MjhhMWE1MjNkYTcxOTQ1ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vne-MI6xySKderX6Leb8FyKnE9BlMEWW1zBqs9UQ4ZQ" width="60px" style="padding-right: 30px;" />
   <!-- HTML -->
 
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwMTg5ZTQ5OWU0ZTAxNjBjYTUwMjRkMDU0MjI1NzkyOTA4M2QzMjY2OWQxOTM5OWFiMDZmOGEzZmQ5YjVjZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oPcOqM1X7fV4Aph_s_Zv-iq_VSVxa9-vA20VsGQGqZ0" width="60px" style="padding-right: 20px;" />
+   <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwMTg5ZTQ5OWU0ZTAxNjBjYTUwMjRkMDU0MjI1NzkyOTA4M2QzMjY2OWQxOTM5OWFiMDZmOGEzZmQ5YjVjZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oPcOqM1X7fV4Aph_s_Zv-iq_VSVxa9-vA20VsGQGqZ0" width="60px" style="padding-right: 20px;" />
   <!-- CSS -->
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px" style="padding-right: 20px;" />
+   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px" style="padding-right: 20px;" />
  <!--JavaScript-->
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px" style="padding-right: 20px;" />
+   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px" style="padding-right: 20px;" />
  <!--VsCode-->
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px" style="padding-right: 20px;" />
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px" style="padding-right: 20px;" />
  <!--GitHub-->
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" style="padding-right: 20px;" />
+   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" style="padding-right: 20px;" />
 </p>
 <!--Python-->
 <br/><br/>
@@ -75,13 +80,13 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   <!-- spotify and more --> 
   <div align="center"> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
+  <a href="https://open.spotify.com/user/5tu5ytye55c9rk0j5cupb75y4?si=4aba3f4d5a1347d8" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
 
@@ -109,7 +114,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <!-- Academic Training-->
 <h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
+<img src="https://img.shields.io/badge/Universidade-Nome_Universidade-blue" width=25>
  Academic Training
 <img src="./assets/icons/graduation-black.svg" width=25>
 </h3>
@@ -121,7 +126,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
 <div>
 
-<!-- My Tech Stack -->
+<!-- My Tech Stack 
 
 <h3 align="center">
  <img src="./assets/icons/stack-white.svg" width=17>
@@ -141,61 +146,5 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <br/>
 
-
-
-
-<!-- My Best Repositories -->
-<div align="center">
-
-  <h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
-  </h3></br>
-
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/github-readme-educational-badge">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/MicroControladores">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/Glauedson/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-</div>
-
-
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/WhatIsTheLanguage">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
-    </a>
-</div>
-</br>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
-  />
-
-</p>
-
-</div>
-
+-->
 
