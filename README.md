@@ -20,60 +20,22 @@
 
 <p align="left">
 
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5OTYzYjZmN2YxZjNiNTRhOTVhYTdiZDA5ZWMzN2E5YzVhNzEyYjlkY2Q2NDJmYTVlZGI4MzUzZDJiZDA5NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dqF_rJrFoVuXzEQ9I-Z7g2T2-Pp_JauBTZUb7JYrJpg" width="60px" style="padding-right: 20px;" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxOWVjMTczY2IyZDczZWJlNGUyNmE2Mzg4ZTk3MWQ0MjAxYzg2YzZlZmYzNTE4MjhhMWE1MjNkYTcxOTQ1ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vne-MI6xySKderX6Leb8FyKnE9BlMEWW1zBqs9UQ4ZQ" width="60px" style="padding-right: 30px;" />
+  <!-- HTML -->
 
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwYjA3Njg5Nzc4NGE3ZWVlZDlkN2I4NWYwZGJkZmU4MzExZjZkNmY1ZmNiMjczNjU5YzUyYmVkMWY0YzZhMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g4K7bjOcV2IhCHvcgfERPvOVJBov98VHEXtnPB0xEYk" width="60px" style="padding-right: 20px;" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwMTg5ZTQ5OWU0ZTAxNjBjYTUwMjRkMDU0MjI1NzkyOTA4M2QzMjY2OWQxOTM5OWFiMDZmOGEzZmQ5YjVjZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oPcOqM1X7fV4Aph_s_Zv-iq_VSVxa9-vA20VsGQGqZ0" width="60px" style="padding-right: 20px;" />
+  <!-- CSS -->
 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px" style="padding-right: 20px;" />
- 
+ <!--JavaScript-->
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px" style="padding-right: 20px;" />
- 
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NTg3OTksIm5iZiI6MTc1Mjk1ODQ5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDIwNTQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYTMyMzI5Nzc4YmU0MjRkNTdmM2UyOTI4YTkzNWMzNGFmYTg3ZGZjNWQ3NWZhZjY1MDM4NTI0YWRhNTZjMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9OmmJA61NF1jBcsCJYS8jMMEAf4rn4uFyBGMxMcX9AI" width="60px" style="padding-right: 20px;" />
- 
+ <!--VsCode-->
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px" style="padding-right: 20px;" />
+ <!--GitHub-->
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" style="padding-right: 20px;" />
 </p>
-
+<!--Python-->
 <br/><br/>
-
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
-
-<!-- Banner  -->
-<a href="https://github.com/Glauedson">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
-</a>
-
-
-<!--  views/stars/followers -->
-</br>
-<div align="center">
-<a href="https://github.com/Glauedson">
-  <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
-       alt="Visualizações no perfil"
-       title="Total de visualizações"/> 
-</a>
-<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
-  <img width="115px" 
-       alt="seguidores" 
-       title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
-</a>
-<a href="https://github.com/Glauedson?tab=followers">
-  <img width="150px" 
-       alt="seguidores" 
-       title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
-</a>
-</div>
-
-</br>
 
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
@@ -93,10 +55,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 </div>
 </br>
-
-
-
-
 
 <!-- Gif  -->
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
