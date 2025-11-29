@@ -1,13 +1,14 @@
 <div>
 <!-- GitHub Profile - Joe (Dark Theme) -->
 
-<h1 align="center" style="color: #00bbff;">🌌 Joe</h1>
+<h1 align="center" style="color: #00bbff;"><img width="25" height="30" alt="image" src="https://github.com/user-attachments/assets/cd9d4bb9-c327-4c79-924f-cb509c9da8c4" />
+ Joe</h1>
 
 <p align="center"><strong>Desenvolvedor FullStack</strong></p>
 
 <p align="center">
-  Entusiasta da tecnologia, apaixonado por desenvolvimento web<br>
-  e por desvendar os mistérios do código no estilo dark ⚙️🌙
+🌙 Technology enthusiast, passionate about web development
+and unraveling code mysteries in dark style 🌙
 </p>
 
 <p align="center">
