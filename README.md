@@ -50,13 +50,13 @@
 
 <div align="justify">
 
-I’m a student of `software engineering` at the `UniCesumar`.  
-My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
-At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+I'm a `Software Engineering student` at `UniCesumar`. My journey in technology began early: at age 12, I was already building a solid foundation in Python, HTML, CSS, and JavaScript through small personal projects.
 
-When I turned 18 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+At sixteen, I deepened this passion by exploring everything behind the websites we access and the games we play. It was in this process that I became fascinated by digital aesthetics, but choosing between front-end and back-end was always an impossible mission for me.
+
+Upon turning 18, I fully immersed myself in programming: online courses, valuable interactions with other people who share the same passion, and lots of code. Since then, I have dedicated my time to the in-depth study of Fullstack Web Development.
+
+And although my routine is heavily focused on the web universe, I also reserve time to explore another area that fascinates me: `digital security` and `ethical hacking`.
 
 </div>
 </br>
@@ -66,16 +66,16 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <!-- A Little More About Me -->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWtvaWFybGVlYXQ3ZGUzZThhNTUwbWliemd4YWNiNThmY2J6eHpmOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width=15>
   A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWtvaWFybGVlYXQ3ZGUzZThhNTUwbWliemd4YWNiNThmY2J6eHpmOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width=15>
  </h3>
+🔷 I thrive when surrounded by experienced people who challenge me to grow. </br>
+🔷 Always willing to help anyone wanting to learn more about Full Stack. </br>
+🔶 Interested in any large-scale project that makes me think deeply. </br>
+🔷 Enthusiastic about learning everything within my reach. </br>
 
- ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
- ⬜ Currently working on projects with React.  </br>
- ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
- ⬜ Interested in any large-scale project that makes me think.</br>
- ⬛ Minimalism enthusiast.
+
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
