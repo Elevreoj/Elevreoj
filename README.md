@@ -28,7 +28,7 @@
    <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxOWVjMTczY2IyZDczZWJlNGUyNmE2Mzg4ZTk3MWQ0MjAxYzg2YzZlZmYzNTE4MjhhMWE1MjNkYTcxOTQ1ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vne-MI6xySKderX6Leb8FyKnE9BlMEWW1zBqs9UQ4ZQ" width="60px" style="padding-right: 30px;" />
   <!-- HTML -->
 
-   <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDQ2MjQsIm5iZiI6MTc2NDEwNDMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIwNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwMTg5ZTQ5OWU0ZTAxNjBjYTUwMjRkMDU0MjI1NzkyOTA4M2QzMjY2OWQxOTM5OWFiMDZmOGEzZmQ5YjVjZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oPcOqM1X7fV4Aph_s_Zv-iq_VSVxa9-vA20VsGQGqZ0" width="60px" style="padding-right: 20px;" />
+   <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzODQyOTQsIm5iZiI6MTc2NDM4Mzk5NCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI5VDAyMzk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2M2Y3MmUyOWU2MTYzOWI3YmFmNjdhYTMzZWUzZGQ3NjViMDUzYzVmN2VhMzBlZGE2NDJhYzhkMzBlYTMwZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E0s4j-hG1CzKpR_N45zL86bRT7jOIWPd_2T8HuHtbb0" width="60px" style="padding-right: 20px;" />
   <!-- CSS -->
 
    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px" style="padding-right: 20px;" />
@@ -79,16 +79,31 @@ And although my routine is heavily focused on the web universe, I also reserve t
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
-
+  </div>
+  </br>
   <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> 
+  </br>
   <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
+  </br>
   <a href="https://open.spotify.com/user/5tu5ytye55c9rk0j5cupb75y4?si=4aba3f4d5a1347d8" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
+  </br>
+ <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  width="48px" />
+  </a> 
+  </br>
+ <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  width="48px" />
+  </a> 
+
+  
+  </a> 
+  
 
   </div>
 
@@ -112,19 +127,6 @@ And although my routine is heavily focused on the web universe, I also reserve t
 </div>
 
 
-<!-- Academic Training-->
-<h3 align="center">
-<img src="https://img.shields.io/badge/Universidade-Nome_Universidade-blue" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
-
-<!-- Academic Badge-->
-<div align="center">
-
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
-<div>
 
 <!-- My Tech Stack 
 
