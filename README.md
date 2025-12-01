@@ -20,7 +20,6 @@ and unraveling code mysteries in dark style 🌙
 <h3 align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMDY4OTUsIm5iZiI6MTc2NDEwNjU5NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDIxMzYzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjMjQyMDgxNTdhZmRkYWQ2ZTYxNWVmNzI0Zjg3NjBiZjA5ODVkZDkyYTZjYmY3ZWZlMmJlZDZhMzQxNGY4ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XeIoUV0MjidfOpTPXtIRbx_A1S8z2OdqHVtJ2x_Gb0Y" width=18>
 🖥️ Linguagem e Tecnologias 🖥️
-<img src="https://stock.adobe.com/br/video/github-black-icon-background-animation-github-logo/609343994" width=22>
 </h3>
 <br>
 
@@ -39,12 +38,14 @@ and unraveling code mysteries in dark style 🌙
    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px" style="padding-right: 20px;" />
  <!--GitHub-->
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" style="padding-right: 20px;" />
-</p>
 <!--Python-->
-<br/><br/>
-
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+  </br> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60px" style="padding-right: 30px;" />
+<!--Java-->
+</p>
+<img src="https://igusantos.github.io/HollowKnight-Wiki/src/assets/imagens/Cavaleirovazio.png" width=320 align="left">
 <div align="center">
+
+</p></p>
 
 **Who Am I?**
 </div>
