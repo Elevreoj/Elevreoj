@@ -99,7 +99,7 @@ And although my routine is heavily focused on the web universe, I also reserve t
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  width="48px" />
   </a> 
   </br>
- <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
+ <a href="https://www.instagram.com/joe_der_winter?igsh=ZWFjMGdhaW9hNzdj" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  width="48px" />
   </a> 
 
