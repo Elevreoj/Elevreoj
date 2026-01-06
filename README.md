@@ -95,7 +95,7 @@ And although my routine is heavily focused on the web universe, I also reserve t
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
   </br>
- <a href="https://mail.google.com/mail/?view=cm&to=joervelejuniorpereira@gmail.com" target="_blank">
+ <a href="835659994145226772" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  width="48px" />
   </a> 
   </br>
