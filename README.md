@@ -87,7 +87,7 @@ And although my routine is heavily focused on the web universe, I also reserve t
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
   </br>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in/joervele-junior-587388236/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   </br>
